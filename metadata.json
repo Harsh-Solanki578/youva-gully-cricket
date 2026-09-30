@@ -1,0 +1,6 @@
+{
+  "name": "YOUVA Gully Cricket",
+  "description": "YOUVA Gully Cricket mobile score keeper, featuring live over status, run-rate and worm graphs, and ball history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
